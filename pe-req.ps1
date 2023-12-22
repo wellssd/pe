@@ -82,7 +82,7 @@ while ($flag -eq 0) {
     
     ###
     ### Privilege escalation failed - not currently implemented; however, if a timeout is desired, or some other
-	### failure scenario is desired, it should be inserted here.
+    ### failure scenario is desired, it should be inserted here.
     ###
 
     ###
